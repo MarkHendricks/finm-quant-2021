@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Mac OS org file
+.DS_Store
+
+# dev folder for working out ideas
+dev/
