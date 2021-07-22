@@ -133,3 +133,7 @@ dmypy.json
 
 # dev folder for working out ideas
 dev/
+ta/
+
+# pycharm
+.idea*
